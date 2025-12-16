@@ -8,7 +8,7 @@ A mesmerizing animated Northern Lights simulation with flowing, colorful gradien
 
 ## 🌌 Live Demo
 
-**[View Live Demo](https://auroraborealis.github.io)**
+**[View Live Demo](https://auroraborealisj.github.io)**
 
 ## ✨ Features
 
@@ -34,7 +34,7 @@ A mesmerizing animated Northern Lights simulation with flowing, colorful gradien
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/auroraborealisj/auroraborealis.github.io.git
+git clone https://github.com/auroraborealisj/auroraborealisj.github.io.git
 ```
 
 2. Open `index.html` in your browser
