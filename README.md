@@ -1,7 +1,7 @@
 # Aurora Borealis
 
 A mesmerizing animated Northern Lights simulation with flowing, colorful gradient waves.
-
+  
 ![Aurora Borealis](https://img.shields.io/badge/Aurora-Borealis-00ff88?style=for-the-badge&logo=github)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-CSS3-orange?style=for-the-badge)
